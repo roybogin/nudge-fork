@@ -17,7 +17,7 @@ Stock blockers are easy to skip. Want **positive feedback when good** and **unco
 
 **Nudge** (`astraedus/nudge`, GPL-3). Remote: `upstream`.
 
-GitHub hosting: **independent public repo** (`roybogin/nudge-fork`), not a GitHub “Fork” button fork. Reason: personal product divergence (When×Consequence, different soul docs); still GPL with `upstream` for fetch/merge. A GitHub fork UI would imply contribution-staging, which is secondary here.
+GitHub hosting: **proper fork** of `astraedus/nudge` → [`roybogin/nudge-fork`](https://github.com/roybogin/nudge-fork) (`isFork: true`). This tree edits upstream Nudge; fork relationship keeps parent link + sync. Remotes: `origin` = our fork, `upstream` = astraedus/nudge.
 
 Rejected for base: Warden (runner-up; sites/PIN heavier), Blocker (quota→block), AppBlock (closed).
 
