@@ -21,3 +21,8 @@ extension/.output/
 extension/.wxt/
 
 .claude/worktrees/
+
+# Agent / local
+.cursor/agent-logs/
+.env
+.env.*
